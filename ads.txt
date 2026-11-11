@@ -1,0 +1,2 @@
+# Ide kerül a Google AdSense sor, miután jóváhagyták az oldalt, például:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
